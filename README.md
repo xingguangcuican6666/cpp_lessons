@@ -1,2 +1,2 @@
 # cpp_lessons
-Teach other learning cpp
+Teach other learning cpp.
